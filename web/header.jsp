@@ -11,5 +11,5 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Hello Web</title>
     </head>
-    <div class='header'> Site Header</div>
+    <div class='header'> Site Header content</div>
     <body>
