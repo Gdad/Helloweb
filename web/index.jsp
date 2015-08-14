@@ -1,13 +1,17 @@
 <%-- 
-    Document   : index.jsp
-    Created on : 14 Aug, 2015, 8:36:59 PM
+    Document   : index
+    Created on : 14 Aug, 2015, 9:13:40 PM
     Author     : sourabh
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-
-<%@ include file="header.jsp" %>
-    <div class='contect'>
-         Site homepage content comes here ..... 
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>JSP Page</title>
+    </head>
+    <div class='content'>
+        Website Homepage content comes here .... 
     </div>
-<%@ include file='footer.jsp'%>
+  </html>
